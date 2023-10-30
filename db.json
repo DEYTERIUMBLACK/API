@@ -1,7 +1,19 @@
-  
+{
+  "messages": [
+    {
+      "id": 1,
+      "user": 1,
+      "message": "Salam"
+    },
+    {
+      "id": 2,
+      "user": 2,
+      "message": "Necəsən"
+    },
     {
       "user": 1,
       "message": "Salam Stalin nətərsən nə var nə yox",
       "id": 3
     }
-
+  ]
+}
